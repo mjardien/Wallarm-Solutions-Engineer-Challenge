@@ -2,8 +2,9 @@
 
 ## 📌 Project Overview
 
-Welcome to the **Wallarm Solutions Engineer Technical Evaluation**. This exercise is designed to assess your ability to deploy and configure Wallarm's filtering nodes using a deployment method of your choice, troubleshoot any issues encountered, and document your process effectively. Additionally, we will evaluate your ability to leverage our official documentation to complete the task.
+Welcome to my Wallarm submission repository. This is designed to assess my ability to deploy and configure Wallarm's filtering node solution being deployed with Kubernetes NGINX Ingress Controller, as well as troubleshoot any issues encountered, and document my process effectively. 
 
+The solution will be tested with creating a backend origin and testing traffic with GoTestWAF. After test traffic has been simulated we can verify the results through the Wallarm Web Console. 
 
 ## 🚀 Task Overview
 
@@ -28,12 +29,8 @@ Welcome to the **Wallarm Solutions Engineer Technical Evaluation**. This exercis
 
 ## 📝Full Documentation
 
-
-
----
-
-## ✅ Evaluation Criteria
-
+Please click link for more detailed readme with screenshots.
+https://docs.google.com/document/d/1uoLb3kGkmBjNwX3JwURl0ehDdoMMBMyk9sinrc4mEuI/edit?usp=sharing
 
 ---
 
